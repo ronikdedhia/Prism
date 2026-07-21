@@ -1,0 +1,33 @@
+Django>=5.0
+djangorestframework
+drf-spectacular
+django-cors-headers
+psycopg[binary]
+pgvector
+python-dotenv
+gunicorn
+whitenoise
+
+# Agents / AI
+langchain
+langchain-groq
+langgraph
+langsmith
+groq
+openai
+
+# Auth
+clerk-backend-api
+
+# Payments / commerce
+stripe
+requests
+
+# Cache / scheduling
+upstash-redis
+APScheduler
+django-apscheduler
+
+# Observability / ops
+sentry-sdk
+brevo-python
